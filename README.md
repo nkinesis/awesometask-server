@@ -1,5 +1,5 @@
 # Awesome Task Manager
-A task manager web application with basic chart, statistics and user management functionality. This repo contains both client-side (Angular and React projects) and server-side code.
+A task manager web application with basic chart, statistics and user management functionality. 
 
 # Server-side code
 * Using Java, Hibernate and MySQL
